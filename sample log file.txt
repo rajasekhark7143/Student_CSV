@@ -1,0 +1,55 @@
+--------------------------------------------------------------------------------------------------------------------------
+
+STUDENT_ID STUDENT_NAME         ID_OF NAME_OF_COLLEGE                                    STATUS            PHONE_NO AG STUDENT_TOPIC                  ADDRESS                                           
+---------- -------------------- ----- -------------------------------------------------- --------------- ---------- -- ------------------------------ ----------                                        
+    721411 VISHNU               12111 Sree vidyanikethan Engineering College             YES             7885995855 22 SWATCH BHAARATH                TIRUPATI                                          
+    721412 PRASANTH             12111 Sree vidyanikethan Engineering College             NO              8546589512 21 INDIAN POLITICS                TIRUPATI                                          
+    721413 SEKHAR               12111 Sree vidyanikethan Engineering College             YES             9963830914 24 CINEMA                         TIRUPATI                                          
+    721414 RAMYA                12111 Sree vidyanikethan Engineering College             YES             9663673136 22 TECHNOLOGIES                   TIRUPATI                                          
+    721415 SURYA                12111 Sree vidyanikethan Engineering College             YES             9581354654 23 BUSINESS INDIA                 TIRUPATI                                          
+    721416 SAI AJAY             12111 Sree vidyanikethan Engineering College             YES             9951354654 23 INDIAN CULTURE                 TIRUPATI                                          
+    721417 GOWTHAM              12112 Sree Venkateswara Engineering College              NO              8795462144 23 CINEMA                         TIRUPATI                                          
+    721418 SIVA KRISHNA         12112 Sree Venkateswara Engineering College              YES             8795462144 23 CORRUPTION                     TIRUPATI                                          
+    721419 RAVI TEJA            12112 Sree Venkateswara Engineering College              YES             8795462144 23 INDIAN POLITICS                TIRUPATI                                          
+    721420 SURYA SAI            12112 Sree Venkateswara Engineering College              YES             8795462144 23 BUSINESS INDIA                 TIRUPATI                                          
+    721421 MOUNIKA SEKHAR       12115 YVU Eng College                                    YES             8500900658 23 THERMAL POWER                  PDTR                                              
+    721422 SNEHA                12115 YVU Eng College                                    YES             9856556222 23 TECHNOLOGIES                   PDTR                                              
+    721423 PARVATHI             12115 YVU Eng College                                    YES             8745632152 23 INDIAN POLITICS                PDTR                                              
+    721424 KISHORE              12120 G.Pulla Reddy Engineering College                  NO              8745252211 21 INDIAN POLITICS                KURNOOL                                           
+    721425 PRADEEP              12120 G.Pulla Reddy Engineering College                  YES             7896525221 22 SWATCH BHAARATH                KURNOOL                                           
+    721426 DINESH               12120 G.Pulla Reddy Engineering College                  YES             8565425261 24 CINEMA                         KURNOOL                                           
+    721427 PRASANTH             12120 G.Pulla Reddy Engineering College                  YES             7859552361 21 BUSINESS INDIA                 KURNOOL                                           
+    721428 SREEDHAR             12120 G.Pulla Reddy Engineering College                  NO              9988566652 23 INDIAN POLITICS                KURNOOL                                           
+    721429 SREEDHAR             12118 Aditya College of Engineering                      NO              9855254655 21 THERMAL POWER                  CHITTOOR                                          
+    721430 PRASAD               12118 Aditya College of Engineering                      NO              9.8859E+10 21 TECHNOLOGIES                   CHITTOOR                                          
+    721431 MOUNIKA              12118 Aditya College of Engineering                      NO              7475556626 23 INDIAN POLITICS                CHITTOOR                                          
+    721432 ANUSHA               12118 Aditya College of Engineering                      NO              8456845621 22 INDIAN CULTURE                 CHITTOOR                                          
+    721433 SUDEER               12118 Aditya College of Engineering                      NO              7474745566 24 CINEMA                         CHITTOOR                                          
+    721434 ADITHYA              12124 SIDHARTHA ENGINEERING COLLEGE                      NO              9989865654 23 BUSINESS INDIA                 VIJAYAWADA                                        
+    721435 ARJUN                12124 Aditya College of Engineering                      YES             8989785455 21 CORRUPTION                     VIJAYAWADA                                        
+    721436 PRASAD               12124 Aditya College of Engineering                      NO              7897894545 22 CINEMA                         VIJAYAWADA                                        
+    721437 HARI                 12125 SRM COLLEGE OF ENGINEERING                         YES             8785426545 23 CORRUPTION                     CHENNAI                                           
+    721438 GOWHTMI              12123 CITY ENGINEERING COLLEGE                           NO              9457897845 22 SWATCH BHAARATH                BANGALORE                                         
+    721439 DEEPAK               12123 CITY ENGINEERING COLLEGE                           NO              8945457897 24 THERMAL POWER                  BANGALORE                                         
+    721440 CHARAN               12123 CITY ENGINEERING COLLEGE                           YES             7894545978 23 BUSINESS INDIA                 BANGALORE                                         
+    721441 MAHESH               12123 CITY ENGINEERING COLLEGE                           NO              7454589789 22 TECHNOLOGIES                   BANGALORE                                         
+    721442 ANJALI               12122 VEL TECH COLLEGE                                   NO              7213214545 22 CINEMA                         CHENNAI                                           
+    721443 KEERTHI              12122 VEL TECH COLLEGE                                   NO              7454894545 22 INDIAN CULTURE                 CHENNAI                                           
+    721444 SWATHI               12122 VEL TECH COLLEGE                                   NO               997894545 22 CORRUPTION                     CHENNAI                                           
+    721445 TRIVIKRAM            12121 CB institute of technology                         NO              7897894545 22 INDIAN CULTURE                 HYDERABAD                                         
+    721446 NANI                 12121 CB institute of technology                         YES             7897894545 22 CINEMA                         HYDERABAD                                         
+    721447 PAWAN KALYAN         12121 CB institute of technology                         YES             7897894545 22 INDIAN POLITICS                HYDERABAD                                         
+    721448 THARAK               12119 MJR College of Engineering & Technology            NO              8056456254 22 CORRUPTION                     NELLORE                                           
+    721449 KARAN                12119 MJR College of Engineering & Technology            NO              8877455545 23 SWATCH BHAARATH                NELLORE                                           
+    721450 DAVID                12119 MJR College of Engineering & Technology            NO              9865475655 21 BUSINESS INDIA                 NELLORE                                           
+    721451 PAVANI               12119 MJR College of Engineering & Technology            NO              8754645854 21 INDIAN POLITICS                NELLORE                                           
+    721452 BHARGAV              12117 SREEPADHA INSTITUTE OF TECHNOLOGY                  NO              7585529858 24 INDIAN CULTURE                 WARANGAL                                          
+    721453 NAVEEN KUMAR         12117 SREEPADHA INSTITUTE OF TECHNOLOGY                  YES             9663252515 21 TECHNOLOGIES                   WARANGAL                                          
+    721454 DIVYA                12117 SREEPADHA INSTITUTE OF TECHNOLOGY                  YES             7555858458 22 THERMAL POWER                  WARANGAL                                          
+    721455 ESWAR                12116 KS Eng College                                     NO              8000213522 23 INDIAN POLITICS                KRISHNA                                           
+    721456 DEEPTHI              12116 KS Eng College                                     YES             9888565656 22 CINEMA                         KRISHNA                                           
+    721457 RAGHAV               12114 SV University                                      NO              7897894545 22 CINEMA                         TIRUPATI                                          
+    721458 ARJUN RAM            12114 SV University                                      NO              7945897845 22 CINEMA                         TIRUPATI                                          
+    721459 SARATH               12113 Sree Rama Engineering College                      NO              7897857555 21 INDIAN CULTURE                 TIRUPATI                                          
+    721460 KRISHNA              12113 Sree Rama Engineering College                      YES             8978745495 23 SWATCH BHAARATH                TIRUPATI                                          
+    721461 RAJASEKHAR           12114 SV University                                      YES             7981368677 23 INDIAN POLITICS                TIRUPATI                                          
